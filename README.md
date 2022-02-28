@@ -1,6 +1,6 @@
-# flutter_application_1
+# gallery app
 
-<img src="https://github.com/Mohammed187/simple_gallery_app/blob/master/Screenshot_1646074077.png" width=200> <img src="https://github.com/Mohammed187/simple_gallery_app/blob/master/Screenshot_1646074096.png" width=200> 
+<img src="https://github.com/Mohammed187/simple_gallery_app/blob/master/Screenshot_1646074077.png" width=400> <img src="https://github.com/Mohammed187/simple_gallery_app/blob/master/Screenshot_1646074096.png" width=400> 
 
 
 ## Getting Started
